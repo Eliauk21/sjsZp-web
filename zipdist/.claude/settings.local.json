@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip list:*)",
+      "Bash(findstr -i \"xlrd pandas openpyxl\")",
+      "Bash(pythonw:*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}

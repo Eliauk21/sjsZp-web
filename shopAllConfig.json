@@ -1,0 +1,896 @@
+[
+  {
+    "shopId": "1000417800",
+    "shopName": "颐莲（RELLET）京东自营旗舰店",
+    "templateId": "28457",
+    "orderId": null
+  },
+  {
+    "shopId": "1000091843",
+    "shopName": "Aveeno艾惟诺京东自营旗舰店",
+    "templateId": "25922",
+    "orderId": null
+  },
+  {
+    "shopId": "1000310642",
+    "shopName": "IQOO京东自营旗舰店",
+    "templateId": "25877",
+    "orderId": null
+  },
+  {
+    "shopId": "1000085868",
+    "shopName": "vivo京东自营旗舰店",
+    "templateId": "25878",
+    "orderId": null
+  },
+  {
+    "shopId": "1000121162",
+    "shopName": "碧芭宝贝京东自营官方旗舰店",
+    "templateId": "25902",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002002",
+    "shopName": "尤妮佳moony京东自营官方旗舰店",
+    "templateId": "25889",
+    "orderId": null
+  },
+  {
+    "shopId": "1000482698",
+    "shopName": "GALENIC科兰黎京东自营旗舰店",
+    "templateId": "26749",
+    "orderId": null
+  },
+  {
+    "shopId": "1000474385",
+    "shopName": "NARS京东自营官方旗舰店",
+    "templateId": "26097",
+    "orderId": null
+  },
+  {
+    "shopId": "1000016184",
+    "shopName": "人头马君度京东自营专区",
+    "templateId": "26514",
+    "orderId": null
+  },
+  {
+    "shopId": "46762",
+    "shopName": "人头马官方旗舰店",
+    "templateId": "26538",
+    "orderId": null
+  },
+  {
+    "shopId": "1000074985",
+    "shopName": "箭牌糖果京东自营旗舰店",
+    "templateId": "26539",
+    "orderId": null
+  },
+  {
+    "shopId": "662490",
+    "shopName": "卡西欧手表官方旗舰店",
+    "templateId": "26603",
+    "orderId": null
+  },
+  {
+    "shopId": "1000465215",
+    "shopName": "彩棠京东自营官方旗舰店",
+    "templateId": "26707",
+    "orderId": null
+  },
+  {
+    "shopId": "1000309923",
+    "shopName": "万益蓝WonderLab京东自营旗舰店",
+    "templateId": "26708",
+    "orderId": null
+  },
+  {
+    "shopId": "1000128682",
+    "shopName": "保丽净京东自营旗舰店",
+    "templateId": "26781",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002710",
+    "shopName": "佳贝艾特京东自营官方旗舰店",
+    "templateId": "26782",
+    "orderId": null
+  },
+  {
+    "shopId": "1000491596",
+    "shopName": "合生元营养健康京东自营旗舰店",
+    "templateId": "26783",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002672",
+    "shopName": "合生元京东自营官方旗舰店",
+    "templateId": "26836",
+    "orderId": null
+  },
+  {
+    "shopId": "703279",
+    "shopName": "骁龙旗舰店",
+    "templateId": "26838",
+    "orderId": null
+  },
+  {
+    "shopId": "18574",
+    "shopName": "颐莲旗舰店",
+    "templateId": "26883",
+    "orderId": null
+  },
+  {
+    "shopId": "65433",
+    "shopName": "国窖1573官方旗舰店",
+    "templateId": "26884",
+    "orderId": null
+  },
+  {
+    "shopId": "1000195646",
+    "shopName": "芳芯（femfresh）京东自营旗舰店",
+    "templateId": "26885",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002020",
+    "shopName": "贝亲（Pigeon）京东自营旗舰店",
+    "templateId": "26952",
+    "orderId": null
+  },
+  {
+    "shopId": "1000135323",
+    "shopName": "摩可纳Moccona京东自营旗舰店",
+    "templateId": "26953",
+    "orderId": null
+  },
+  {
+    "shopId": "1000328203",
+    "shopName": "L'OR京东自营旗舰店",
+    "templateId": "26954",
+    "orderId": null
+  },
+  {
+    "shopId": "1000040006",
+    "shopName": "麦斯威尔京东自营旗舰店",
+    "templateId": "26955",
+    "orderId": null
+  },
+  {
+    "shopId": "1000518301",
+    "shopName": "益周适个人护理京东自营旗舰店",
+    "templateId": "26956",
+    "orderId": null
+  },
+  {
+    "shopId": "11868721",
+    "shopName": "国际平价会员店",
+    "templateId": "27196",
+    "orderId": null
+  },
+  {
+    "shopId": "1000001195",
+    "shopName": "蓝月亮京东自营旗舰店",
+    "templateId": "27197",
+    "orderId": null
+  },
+  {
+    "shopId": "16638930",
+    "shopName": "欧腾酒类专营店",
+    "templateId": "27233",
+    "orderId": null
+  },
+  {
+    "shopId": "213653",
+    "shopName": "海普诺凯1897官方旗舰店",
+    "templateId": "27266",
+    "orderId": null
+  },
+  {
+    "shopId": "1000418105",
+    "shopName": "海普诺凯1897京东自营旗舰店",
+    "templateId": "27267",
+    "orderId": null
+  },
+  {
+    "shopId": "1000102591",
+    "shopName": "澳优京东自营旗舰店",
+    "templateId": "27268",
+    "orderId": null
+  },
+  {
+    "shopId": "10416815",
+    "shopName": "能立多官方旗舰店",
+    "templateId": "27269",
+    "orderId": null
+  },
+  {
+    "shopId": "1000429184",
+    "shopName": "信谊营养健康京东自营旗舰店",
+    "templateId": "27270",
+    "orderId": null
+  },
+  {
+    "shopId": "1000337484",
+    "shopName": "星鲨京东自营官方旗舰店",
+    "templateId": "27271",
+    "orderId": null
+  },
+  {
+    "shopId": "1000087367",
+    "shopName": "迎驾贡酒京东自营官方旗舰店",
+    "templateId": "27272",
+    "orderId": null
+  },
+  {
+    "shopId": "1000470556",
+    "shopName": "红之京东自营官方旗舰店",
+    "templateId": "27335",
+    "orderId": null
+  },
+  {
+    "shopId": "1000185863",
+    "shopName": "月神海外京东自营旗舰店",
+    "templateId": "27333",
+    "orderId": null
+  },
+  {
+    "shopId": "1000406122",
+    "shopName": "goodhealth母婴京东自营旗舰店",
+    "templateId": "27387",
+    "orderId": null
+  },
+  {
+    "shopId": "1000014349",
+    "shopName": "欧诗漫京东自营官方旗舰店",
+    "templateId": "27388",
+    "orderId": null
+  },
+  {
+    "shopId": "1000078502",
+    "shopName": "德芙京东自营旗舰店",
+    "templateId": "27390",
+    "orderId": null
+  },
+  {
+    "shopId": "1000017162",
+    "shopName": "雀巢咖啡京东自营官方旗舰店",
+    "templateId": "27513",
+    "orderId": null
+  },
+  {
+    "shopId": "1000466058",
+    "shopName": "龙谕酒庄葡萄酒京东自营旗舰店",
+    "templateId": "27514",
+    "orderId": null
+  },
+  {
+    "shopId": "1000090221",
+    "shopName": "雀巢母婴海外京东自营官方旗舰店",
+    "templateId": "27515",
+    "orderId": null
+  },
+  {
+    "shopId": "1000479272",
+    "shopName": "MegaRed脉拓海外京东自营旗舰店",
+    "templateId": "27624",
+    "orderId": null
+  },
+  {
+    "shopId": "1000408489",
+    "shopName": "旭福（Schiff）海外京东自营旗舰店",
+    "templateId": "27626",
+    "orderId": null
+  },
+  {
+    "shopId": "1000351737",
+    "shopName": "Intima海外京东自营旗舰店",
+    "templateId": "27631",
+    "orderId": null
+  },
+  {
+    "shopId": "1000100831",
+    "shopName": "lifespace益倍适海外京东自营旗舰店",
+    "templateId": "27634",
+    "orderId": null
+  },
+  {
+    "shopId": "1000435821",
+    "shopName": "WONDERLAB海外京东自营旗舰店",
+    "templateId": "27706",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002389",
+    "shopName": "舒适达京东自营旗舰店",
+    "templateId": "27708",
+    "orderId": null
+  },
+  {
+    "shopId": "1000078242",
+    "shopName": "伊利成人奶粉京东自营旗舰店",
+    "templateId": "27821",
+    "orderId": null
+  },
+  {
+    "shopId": "1000003112",
+    "shopName": "雀巢母婴京东自营旗舰店",
+    "templateId": "27822",
+    "orderId": null
+  },
+  {
+    "shopId": "1000351404",
+    "shopName": "雀巢婴儿京东自营旗舰店",
+    "templateId": "27823",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002746",
+    "shopName": "嘉宝京东自营旗舰店",
+    "templateId": "27824",
+    "orderId": null
+  },
+  {
+    "shopId": "1000096602",
+    "shopName": "京东京造自营官方旗舰店",
+    "templateId": "27849",
+    "orderId": null
+  },
+  {
+    "shopId": "1000072622",
+    "shopName": "好爸爸京东自营旗舰店",
+    "templateId": "27850",
+    "orderId": null
+  },
+  {
+    "shopId": "1000001759",
+    "shopName": "立白京东自营旗舰店",
+    "templateId": "27851",
+    "orderId": null
+  },
+  {
+    "shopId": "1000003221",
+    "shopName": "佰草集京东自营旗舰店",
+    "templateId": "28106",
+    "orderId": null
+  },
+  {
+    "shopId": "1000081228",
+    "shopName": "英氏京东自营旗舰店",
+    "templateId": "28107",
+    "orderId": null
+  },
+  {
+    "shopId": "935908",
+    "shopName": "胡姬花旗舰店",
+    "templateId": "28138",
+    "orderId": null
+  },
+  {
+    "shopId": "1000414447",
+    "shopName": "BOBBI BROWN芭比波朗京东自营旗舰店",
+    "templateId": "28121",
+    "orderId": null
+  },
+  {
+    "shopId": "1000362682",
+    "shopName": "PMPM偏偏京东自营旗舰店",
+    "templateId": "28122",
+    "orderId": null
+  },
+  {
+    "shopId": "1000085822",
+    "shopName": "Friso美素佳儿海外京东自营官方旗舰店",
+    "templateId": "28123",
+    "orderId": null
+  },
+  {
+    "shopId": "1000574371",
+    "shopName": "锋味派食品京东自营旗舰店",
+    "templateId": "28156",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002591",
+    "shopName": "大宝京东自营旗舰店",
+    "templateId": "28157",
+    "orderId": null
+  },
+  {
+    "shopId": "1000221821",
+    "shopName": "雅培京东自营旗舰店",
+    "templateId": "28266",
+    "orderId": null
+  },
+  {
+    "shopId": "1000083728",
+    "shopName": "乌苏啤酒京东自营官方旗舰店",
+    "templateId": "28369",
+    "orderId": null
+  },
+  {
+    "shopId": "1000374901",
+    "shopName": "隔壁刘奶奶京东自营旗舰店",
+    "templateId": "28370",
+    "orderId": null
+  },
+  {
+    "shopId": "11466213",
+    "shopName": "海天官方旗舰店",
+    "templateId": "28371",
+    "orderId": null
+  },
+  {
+    "shopId": "1000085470",
+    "shopName": "周大福京东自营旗舰店",
+    "templateId": "28383",
+    "orderId": null
+  },
+  {
+    "shopId": "15096",
+    "shopName": "周大福官方旗舰店",
+    "templateId": "28384",
+    "orderId": null
+  },
+  {
+    "shopId": "1000331398",
+    "shopName": "百草园海外京东自营旗舰店",
+    "templateId": "28392",
+    "orderId": null
+  },
+  {
+    "shopId": "1000010322",
+    "shopName": "乐事京东自营旗舰店",
+    "templateId": "28421",
+    "orderId": null
+  },
+  {
+    "shopId": "1000007543",
+    "shopName": "桂格京东自营旗舰店",
+    "templateId": "28442",
+    "orderId": null
+  },
+  {
+    "shopId": "1000014688",
+    "shopName": "吕（Ryo）京东自营旗舰店",
+    "templateId": "28443",
+    "orderId": null
+  },
+  {
+    "shopId": "200472",
+    "shopName": "Move Free益节海外官方旗舰店",
+    "templateId": "28444",
+    "orderId": null
+  },
+  {
+    "shopId": "1000014603",
+    "shopName": "三元牛奶京东自营旗舰店",
+    "templateId": "28445",
+    "orderId": null
+  },
+  {
+    "shopId": "1000000140",
+    "shopName": "戴尔京东自营旗舰店",
+    "templateId": "28446",
+    "orderId": null
+  },
+  {
+    "shopId": "1000001343",
+    "shopName": "外星人京东自营旗舰店",
+    "templateId": "28447",
+    "orderId": null
+  },
+  {
+    "shopId": "1000015441",
+    "shopName": "京东大药房",
+    "templateId": "28453",
+    "orderId": null
+  },
+  {
+    "shopId": "10668387",
+    "shopName": "万益蓝WONDERLAB官方旗舰店",
+    "templateId": "28475",
+    "orderId": null
+  },
+  {
+    "shopId": "1000344201",
+    "shopName": "雀巢BEBA海外京东自营旗舰店",
+    "templateId": "28617",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002668",
+    "shopName": "爱他美京东自营旗舰店",
+    "templateId": "28618",
+    "orderId": null
+  },
+  {
+    "shopId": "1000014347",
+    "shopName": "安热沙京东自营旗舰店",
+    "templateId": "28619",
+    "orderId": null
+  },
+  {
+    "shopId": "1000196709",
+    "shopName": "十月结晶京东自营旗舰店",
+    "templateId": "28620",
+    "orderId": null
+  },
+  {
+    "shopId": "52258",
+    "shopName": "十月结晶官方旗舰店",
+    "templateId": "28621",
+    "orderId": null
+  },
+  {
+    "shopId": "204916",
+    "shopName": "十月结晶旗舰店",
+    "templateId": "28622",
+    "orderId": null
+  },
+  {
+    "shopId": "37397",
+    "shopName": "十月结晶母婴旗舰店",
+    "templateId": "28623",
+    "orderId": null
+  },
+  {
+    "shopId": "1000014485",
+    "shopName": "郎酒京东自营旗舰店",
+    "templateId": "28659",
+    "orderId": null
+  },
+  {
+    "shopId": "1000007205",
+    "shopName": "薇诺娜WINONA京东自营旗舰店",
+    "templateId": "28660",
+    "orderId": null
+  },
+  {
+    "shopId": "1000076242",
+    "shopName": "合生元海外京东自营旗舰店",
+    "templateId": "28747",
+    "orderId": null
+  },
+  {
+    "shopId": "1000004718",
+    "shopName": "张裕葡萄酒京东自营旗舰店",
+    "templateId": "28748",
+    "orderId": null
+  },
+  {
+    "shopId": "1000107627",
+    "shopName": "1664啤酒自营官方旗舰店",
+    "templateId": "28749",
+    "orderId": null
+  },
+  {
+    "shopId": "23319",
+    "shopName": "薇诺娜官方旗舰店",
+    "templateId": "28794",
+    "orderId": null
+  },
+  {
+    "shopId": "1000089485",
+    "shopName": "舒比奇京东自营旗舰店",
+    "templateId": "28750",
+    "orderId": null
+  },
+  {
+    "shopId": "11828595",
+    "shopName": "伊利奶粉官方旗舰店",
+    "templateId": "28795",
+    "orderId": null
+  },
+  {
+    "shopId": "12956551",
+    "shopName": "伊利健康食品官方旗舰店",
+    "templateId": "28796",
+    "orderId": null
+  },
+  {
+    "shopId": "1000001351",
+    "shopName": "正官庄京东自营旗舰店",
+    "templateId": "28797",
+    "orderId": null
+  },
+  {
+    "shopId": "1000302301",
+    "shopName": "益倍适lifespace京东自营旗舰店",
+    "templateId": "28798",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002816",
+    "shopName": "TCL京东自营旗舰店",
+    "templateId": "28799",
+    "orderId": null
+  },
+  {
+    "shopId": "1000087025",
+    "shopName": "润百颜京东自营旗舰店",
+    "templateId": "28832",
+    "orderId": null
+  },
+  {
+    "shopId": "1000423042",
+    "shopName": "伟哥京东自营旗舰店",
+    "templateId": "28942",
+    "orderId": null
+  },
+  {
+    "shopId": "1000107709",
+    "shopName": "杞里香京东自营旗舰店",
+    "templateId": "28943",
+    "orderId": null
+  },
+  {
+    "shopId": "1000007395",
+    "shopName": "珂润京东自营旗舰店",
+    "templateId": "28959",
+    "orderId": null
+  },
+  {
+    "shopId": "10302553",
+    "shopName": "官栈官方旗舰店",
+    "templateId": "28945",
+    "orderId": null
+  },
+  {
+    "shopId": "1000473139",
+    "shopName": "EarthPark京东自营旗舰店",
+    "templateId": "29098",
+    "orderId": null
+  },
+  {
+    "shopId": "1000484890",
+    "shopName": "九芝堂健康滋补京东自营旗舰店",
+    "templateId": "29099",
+    "orderId": null
+  },
+  {
+    "shopId": "1000364591",
+    "shopName": "bebetour京东自营旗舰店",
+    "templateId": "29100",
+    "orderId": null
+  },
+  {
+    "shopId": "1000007812",
+    "shopName": "家安京东自营旗舰店",
+    "templateId": "29101",
+    "orderId": null
+  },
+  {
+    "shopId": "1000361662",
+    "shopName": "盛夏光年京东自营旗舰店",
+    "templateId": "29102",
+    "orderId": null
+  },
+  {
+    "shopId": "16354173",
+    "shopName": "Move Free益节健康海外旗舰店",
+    "templateId": "29103",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002744",
+    "shopName": "羽西京东自营官方旗舰店",
+    "templateId": "29104",
+    "orderId": null
+  },
+  {
+    "shopId": "1000370363",
+    "shopName": "官栈京东自营旗舰店",
+    "templateId": "29105",
+    "orderId": null
+  },
+  {
+    "shopId": "1000472396",
+    "shopName": "金凯撒（OMEGOR）海外京东自营旗舰店",
+    "templateId": "29261",
+    "orderId": null
+  },
+  {
+    "shopId": "605038",
+    "shopName": "Swisse斯维诗海外官方旗舰店",
+    "templateId": "29262",
+    "orderId": null
+  },
+  {
+    "shopId": "940239",
+    "shopName": "Swisse斯维诗官方旗舰店",
+    "templateId": "29263",
+    "orderId": null
+  },
+  {
+    "shopId": "16584262",
+    "shopName": "极氪极物官方旗舰店",
+    "templateId": "29264",
+    "orderId": null
+  },
+  {
+    "shopId": "1000520567",
+    "shopName": "极氪极物京东自营旗舰店",
+    "templateId": "29265",
+    "orderId": null
+  },
+  {
+    "shopId": "1000091815",
+    "shopName": "健美生Jamieson海外京东自营旗舰店",
+    "templateId": "29266",
+    "orderId": null
+  },
+  {
+    "shopId": "1000147201",
+    "shopName": "Swisse斯维诗京东自营旗舰店",
+    "templateId": "29338",
+    "orderId": null
+  },
+  {
+    "shopId": "1000074146",
+    "shopName": "Swisse斯维诗海外京东自营旗舰店",
+    "templateId": "29339",
+    "orderId": null
+  },
+  {
+    "shopId": "10214507",
+    "shopName": "a2至初旗舰店",
+    "templateId": "29340",
+    "orderId": null
+  },
+  {
+    "shopId": "1000340361",
+    "shopName": "SHEVEU赛逸海外京东自营旗舰店",
+    "templateId": "29363",
+    "orderId": null
+  },
+  {
+    "shopId": "1000117004",
+    "shopName": "Cenovis海外京东自营旗舰店",
+    "templateId": "29364",
+    "orderId": null
+  },
+  {
+    "shopId": "11661577",
+    "shopName": "盛夏光年官方旗舰店",
+    "templateId": "29671",
+    "orderId": null
+  },
+  {
+    "shopId": "1000482848",
+    "shopName": "医学营养京东自营旗舰店",
+    "templateId": "29672",
+    "orderId": null
+  },
+  {
+    "shopId": "1000002505",
+    "shopName": "小天鹅洗衣机京东自营旗舰店",
+    "templateId": "29673",
+    "orderId": null
+  },
+  {
+    "shopId": "1000448027",
+    "shopName": "HBN京东自营旗舰店",
+    "templateId": "29993",
+    "orderId": null
+  },
+  {
+    "shopId": "1000085423",
+    "shopName": "肌肉科技京东自营旗舰店",
+    "templateId": "29994",
+    "orderId": null
+  },
+  {
+    "shopId": "1000001652",
+    "shopName": "麦富迪京东自营旗舰店",
+    "templateId": "29995",
+    "orderId": null
+  },
+  {
+    "shopId": "1029271305",
+    "shopName": "拜耳（BAYER）女性健康京东自营旗舰店",
+    "templateId": "29996",
+    "orderId": null
+  },
+  {
+    "shopId": "1000640096",
+    "shopName": "宠当当宠物健康京东自营旗舰店",
+    "templateId": "29997",
+    "orderId": null
+  },
+  {
+    "shopId": "1000003706",
+    "shopName": "伊丽莎白雅顿京东自营旗舰店",
+    "templateId": "30398",
+    "orderId": null
+  },
+  {
+    "shopId": "83358",
+    "shopName": "卡宾官方旗舰店",
+    "templateId": "30399",
+    "orderId": null
+  },
+  {
+    "shopId": "10103588",
+    "shopName": "Biostime合生元海外旗舰店",
+    "templateId": "30621",
+    "orderId": null
+  },
+  {
+    "shopId": "1000409463",
+    "shopName": "vikpro京东自营旗舰店",
+    "templateId": "30622",
+    "orderId": null
+  },
+  {
+    "shopId": "125326",
+    "shopName": "小天鹅官方旗舰店",
+    "templateId": "30635",
+    "orderId": null
+  },
+  {
+    "shopId": "141535",
+    "shopName": "青蛙旗舰店",
+    "templateId": "30777",
+    "orderId": null
+  },
+  {
+    "shopId": "1000003179",
+    "shopName": "美赞臣京东自营旗舰店",
+    "templateId": "30947",
+    "orderId": null
+  },
+  {
+    "shopId": "1000084881",
+    "shopName": "加州宝宝(California Baby)海外京东自营旗舰店",
+    "templateId": "30948",
+    "orderId": null
+  },
+  {
+    "shopId": "199911",
+    "shopName": "小罐茶官方旗舰店",
+    "templateId": "30950",
+    "orderId": null
+  },
+  {
+    "shopId": "1000168224",
+    "shopName": "小罐茶京东自营旗舰店",
+    "templateId": "30951",
+    "orderId": null
+  },
+  {
+    "shopId": "10088877",
+    "shopName": "小天鹅洗衣机官方旗舰店",
+    "templateId": "30949",
+    "orderId": null
+  },
+  {
+    "shopId": "1000015664",
+    "shopName": "习酒京东自营旗舰店",
+    "templateId": "31017",
+    "orderId": null
+  },
+  {
+    "shopId": "1000008836",
+    "shopName": "库博光学京东自营旗舰店",
+    "templateId": "31018",
+    "orderId": null
+  },
+  {
+    "shopId": "1000006644",
+    "shopName": "a2至初京东自营旗舰店",
+    "templateId": "31019",
+    "orderId": null
+  },
+  {
+    "shopId": "1000295983",
+    "shopName": "MoveFree益节京东自营旗舰店",
+    "templateId": "31020",
+    "orderId": null
+  },
+  {
+    "shopId": "1000003568",
+    "shopName": "飞鹤京东自营旗舰店",
+    "templateId": "31021",
+    "orderId": null
+  }
+]
